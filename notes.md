@@ -1,5 +1,4 @@
 # Node API 1 Notes
-
 - create repo in github
 - clone it
 - open in edittor
@@ -9,3 +8,6 @@
 - install `nodemon` as a development dependency (`npm i -D nodemon`)
 - add `index.js` to root with console.log
 - run API (`npm run server`)
+
+# create server
+- add Express (`npm i express`)
